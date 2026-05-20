@@ -3,9 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.firefingers21.contactssearch</string>
-	<key>category</key>
-	<string>Shared</string>
+	<string>com.kaichu.contactssearch</string>
 	<key>connections</key>
 	<dict>
 		<key>158AE911-E646-4433-93D0-02E737EFA109</key>
@@ -100,7 +98,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>FireFingers21</string>
+	<string>KAI CHU CHUNG</string>
 	<key>description</key>
 	<string>Search &amp; view fields in Contacts cards</string>
 	<key>disabled</key>
@@ -639,6 +637,6 @@ Custom URL Handler</string>
 	<key>version</key>
 	<string>2026.6</string>
 	<key>webaddress</key>
-	<string>https://github.com/FireFingers21/alfred-contacts-search</string>
+	<string>https://github.com/cage1016/alfred-contacts-search</string>
 </dict>
 </plist>
